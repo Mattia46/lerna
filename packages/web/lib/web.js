@@ -4,7 +4,6 @@ module.exports = web;
 
 function web() {
     // TODO
-    // eccoci
     // 2
     // ddd
 }
