@@ -1,14 +1,13 @@
-0 silly argv { _: [ 'create' ],
+0 silly argv { _: [ 'publish' ],
+0 silly argv   composed: 'publish',
 0 silly argv   lernaVersion: '3.13.4',
-0 silly argv   '$0': '/Users/mattia/Desktop/lerna/node_modules/.bin/lerna',
-0 silly argv   name: '@utils' }
+0 silly argv   '$0': '/Users/mattia/Desktop/lerna/node_modules/.bin/lerna' }
 1 notice cli v3.13.4
 2 verbose rootPath /Users/mattia/Desktop/lerna
-3 error Error: Invalid tag name "@utils": Tags may not have any characters that encodeURIComponent encodes.
-3 error     at invalidTagName (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:87:15)
-3 error     at fromRegistry (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:290:13)
-3 error     at resolve (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:77:12)
-3 error     at npa (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:48:10)
-3 error     at CreateCommand.initialize (/Users/mattia/Desktop/lerna/node_modules/@lerna/create/index.js:54:29)
-3 error     at Promise.resolve.then (/Users/mattia/Desktop/lerna/node_modules/@lerna/command/index.js:271:24)
-3 error     at <anonymous>
+3 error Error: Invalid package name "lern/utils111": name can only contain URL-friendly characters
+3 error     at invalidPackageName (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:82:15)
+3 error     at Result.setName (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:118:11)
+3 error     at new Result (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:107:23)
+3 error     at Function.resolve (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:54:15)
+3 error     at new Package (/Users/mattia/Desktop/lerna/node_modules/@lerna/package/index.js:36:26)
+3 error     at loadJsonFile.then.packageJson (/Users/mattia/Desktop/lerna/node_modules/@lerna/project/index.js:172:24)
