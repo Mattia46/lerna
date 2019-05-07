@@ -1,9 +1,9 @@
 {
-  "name": "lern-utils111",
+  "name": "@mattia/lern-utils111",
   "version": "1.1.1",
   "description": "> TODO: description",
   "author": "Mattia46 <mattia.assogna@gmail.com>",
-  "homepage": "",
+  "homepage": "https://github.com/Mattia46/lerna#readme",
   "license": "ISC",
   "main": "index.js",
   "directories": {
@@ -19,5 +19,11 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "3a3eea5e3ef9608ceef62000f86e03a958bc3763"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattia46/lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mattia46/lerna/issues"
+  }
 }

@@ -1,11 +1,11 @@
-# `@lerna/utils`
+# `@mattia/utils`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('@lerna/utils');
+const utils = require('@mattia/utils');
 
 // TODO: DEMONSTRATE API
 ```

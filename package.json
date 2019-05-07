@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lerna": "^3.13.4",
+    "react-cache": "^2.0.0-alpha.1",
     "utils111": "^0.4.3"
   }
 }
