@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "utils111",
   "version": "0.4.2",
   "description": "> TODO: description",
   "author": "Mattia46 <mattia.assogna@gmail.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "cc0fce628dc40b37d6b13e553a457480caa67dc2"
+  "gitHead": "f9e12b949f1345f22ab52dd941d70636b513a543"
 }
