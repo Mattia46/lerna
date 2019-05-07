@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "web1111",
   "version": "0.5.2",
   "description": "web",
   "author": "Mattia46 <mattia.assogna@gmail.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/Mattia46/lerna/issues"
   },
-  "gitHead": "d2b689f675455b9ef2fd88cd89956219cd5fc3b9"
+  "gitHead": "3a3eea5e3ef9608ceef62000f86e03a958bc3763"
 }
