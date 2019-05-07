@@ -1,5 +1,5 @@
 {
-  "name": "@lerna/utils",
+  "name": "@lern/utils",
   "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Mattia46 <mattia.assogna@gmail.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "b14f32c27641c80f9eade3216aee65e6ce95e4cc"
+  "gitHead": "2aa120d2c052281bdd03557a84112cd00036f5bb"
 }
