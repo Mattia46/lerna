@@ -4,7 +4,7 @@
 0 silly argv   '$0': '/Users/mattia/Desktop/lerna/node_modules/.bin/lerna' }
 1 notice cli v3.13.4
 2 verbose rootPath /Users/mattia/Desktop/lerna
-3 error Error: Invalid package name "lern/utils111": name can only contain URL-friendly characters
+3 error Error: Invalid package name "@lern-utils111": name can only contain URL-friendly characters
 3 error     at invalidPackageName (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:82:15)
 3 error     at Result.setName (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:118:11)
 3 error     at new Result (/Users/mattia/Desktop/lerna/node_modules/npm-package-arg/npa.js:107:23)
