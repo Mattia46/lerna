@@ -1,13 +1,13 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "useWorkspaces": true,
-  "command": {
-      "publish": {
-          "conventionalCommits": true,
-          "yes": true
-      }
-  },
-  "version": "0.5.3"
+    "packages": [
+        "packages/*"
+    ],
+    "useWorkspaces": true,
+    "command": {
+        "publish": {
+            "conventionalCommits": true,
+            "yes": true
+        }
+    },
+    "version": "0.5.4"
 }
